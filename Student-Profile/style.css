@@ -8,7 +8,7 @@ h1 {
     text-align: center;
 }
 
-h2 {
+h2,h3 {
     font-size: 20px;
     text-align: center;
 }
@@ -75,4 +75,10 @@ li {
     background-color:  rgb(208, 255, 215);
     color: rgb(77, 0, 87);
     padding: 20px;
+}
+
+.skills {
+    align-items: center;
+    max-width: 350px;
+    
 }
